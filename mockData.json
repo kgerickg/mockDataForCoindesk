@@ -56,6 +56,20 @@
 
             "rate_float": 22738.5269
 
+        },
+
+        "TEST": {
+
+            "code": "TEST",
+
+            "symbol": "t",
+
+            "rate": "22,738.5269",
+
+            "description": "Test",
+
+            "rate_float": 22738.5269
+
         }
 
     }
